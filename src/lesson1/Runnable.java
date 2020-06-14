@@ -1,5 +1,5 @@
 package lesson1;
 
 public interface Runnable {
-    public void run();
+    public void run(int height);
 }

@@ -1,5 +1,5 @@
 package lesson1;
 
 public interface Jumpable {
-    public void jump();
+    public void jump(int dist);
 }
